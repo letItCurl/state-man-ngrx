@@ -1,27 +1,23 @@
-# StateManNgrx
+# Ngrx state managment
+> getting started
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+# About me
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<table style="border: none;">
+  <tr>
+    <td>
+      <div style="width: 120px;">
+        <img style="width: 120px;" src="https://res.cloudinary.com/duydvdaxd/image/upload/w_120,c_fill,ar_1:1,g_auto/v1587723517/Rodeooo_khmmmu.jpg"/>
+    </div>
+    </td>
+    <td>
+      <div style="margin-left: 30px;">
+        <p>Hey there !</br>
+        I'm letItCurl, fullstack developer engineer in freelance</br>
+        If you have any question you can <a href="https://www.linkedin.com/in/roland-lopez-developer/?locale=en_US">contact me</a> if you wish !</p>
+        <p>I'm always ready to help ;)</p>
+        <a href="mailto:rolandlopez.developer@gmail.com?subject=H4y!4r3U4v4il4bl3?">Email me ;)</a>
+    </div>
+    </td>
+  </tr>
+</table>
