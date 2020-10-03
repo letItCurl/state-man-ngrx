@@ -1,5 +1,5 @@
 # Ngrx state managment
-> getting started
+> getting started...
 
 # About me
 
